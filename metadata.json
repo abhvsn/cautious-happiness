@@ -19,6 +19,22 @@
     "CRUD_MONGO_UpdateQuery": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
+    },
+    "users crud_DeleteQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "users crud_InsertQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
+    "users crud_SelectQuery": {
+      "unpublishedUserSetOnLoad": true,
+      "publishedUserSetOnLoad": true
+    },
+    "users crud_UpdateQuery": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
     }
   },
   "publishedTheme": {
